@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="200px" src="https://github.com/KDSGYT/kdsgyt/blob/main/IMG_3178.PNG" alt="Profile Image" />
+  <img width="300px" src="https://github.com/KDSGYT/kdsgyt/blob/main/IMG_3178.PNG" alt="Profile Image" />
 <h1 align="center" >Karan Pal Singh </h1>
 </p>
 
