@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="https://github.com/KDSGYT/kdsgyt/blob/main/github-coverphoto.png" alt="Profile Image" />
-</p>
-
+<h1 align="center" > Karan Pal Singh </h1>
 <p align="center">
   <a href="https://twitter.com/kdsgyt">
     <img src="https://img.shields.io/twitter/follow/kdsgyt?label=Follow&logo=twitter&style=for-the-badge"  alt="Twitter Followers" />
