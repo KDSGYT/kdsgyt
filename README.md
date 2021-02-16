@@ -1,6 +1,5 @@
 <p align="center">
-  <img width="300px" src="https://github.com/KDSGYT/kdsgyt/blob/main/IMG_3178.PNG" alt="Profile Image" />
-<h1 align="center" >Karan Pal Singh </h1>
+  <img src="https://github.com/KDSGYT/kdsgyt/blob/main/github-coverphoto.png" alt="Profile Image" />
 </p>
 
 <p align="center">
@@ -9,6 +8,9 @@
   </a>
   <a href="https://twitter.com/kdsgyt">
     <img src="https://img.shields.io/github/followers/kdsgyt?label=Follow&logo=github&style=for-the-badge"  alt="Github Followers" />
+  </a>
+  <a href="https://twitch.com/kdsgcodes">
+    <img src="https://img.shields.io/twitch/status/kdsgcodes?style=for-the-badge&logo=twitch"  alt="twitch Followers" />
   </a>
  
 </p>
