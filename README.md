@@ -3,7 +3,7 @@
   <a href="https://twitter.com/kdsgyt" target="_blank">
     <img src="https://img.shields.io/twitter/follow/kdsgyt?label=Follow&logo=twitter&style=for-the-badge"  alt="Twitter Followers" />
   </a>
-  <a href="https://twitter.com/kdsgyt" target="_blank">
+  <a href="https://github.com/kdsgyt" target="_blank">
     <img src="https://img.shields.io/github/followers/kdsgyt?label=Follow&logo=github&style=for-the-badge"  alt="Github Followers" />
   </a>
   <a href="https://twitch.com/kdsgcodes" target="_blank">
