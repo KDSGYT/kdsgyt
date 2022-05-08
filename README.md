@@ -13,7 +13,6 @@
 </p>
 <p align="center">
   <img width="65%" src="https://github-readme-stats.vercel.app/api?username=kdsgyt&&show_icons=true&theme=dracula" />
-  <img width="27%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kdsgyt&count_private=true&theme=dracula" />
 </p>
 
 <!--
